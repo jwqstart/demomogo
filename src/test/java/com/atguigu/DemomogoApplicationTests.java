@@ -38,6 +38,8 @@ class DemomogoApplicationTests {
 
 
         System.out.println("aa");
+
+        System.out.println("bb");
     }
 
     //查询所有
