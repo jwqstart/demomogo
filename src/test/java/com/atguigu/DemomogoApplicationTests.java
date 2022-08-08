@@ -39,7 +39,7 @@ class DemomogoApplicationTests {
 
         System.out.println("aa1111");
 
-        System.out.println("bb11");
+        System.out.println("bb1111");
     }
 
     //查询所有
