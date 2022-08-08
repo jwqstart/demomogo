@@ -23,6 +23,7 @@ class DemomogoApplicationTests {
     @Autowired
     private MongoTemplate mongoTemplate;
 
+
     //添加操作
     @Test
     public void create() {
@@ -35,6 +36,8 @@ class DemomogoApplicationTests {
 
         System.out.println(insert);
 
+
+        System.out.println("aa");
     }
 
     //查询所有
